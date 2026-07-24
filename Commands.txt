@@ -2,3 +2,5 @@ commands for linux
 ls -> list all files/directories in current working directory
 
 this line is written in dev1 branch
+
+another line by dev1 
