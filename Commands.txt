@@ -1,1 +1,2 @@
 commands for linux
+ls -> list all files/directories in current working directory
